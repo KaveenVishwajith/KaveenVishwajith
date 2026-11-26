@@ -23,20 +23,23 @@
 
 ## 🚩 Top Projects
 
-  ### Senasuma Villa
-  
-  Built and deployed a website for a family-run villa in Sri Lanka.
-  Guests can browse rooms and photos and send booking enquiries via WhatsApp.
-  An owner dashboard lets the villa team manage room details and photos.
-  
-  **Tech stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Cloudflare Workers
-  
-  [Visit the live website](https://senasuma-villa.senasumavilla.workers.dev/)
+### Senasuma Villa
 
-- [CESLERP.DB](https://github.com/ceslerp/CESLERP.DB)
-- [cesl.erp.projects.ui](https://github.com/ceslerp/cesl.erp.projects.ui)
-- [CESL.ERP](https://github.com/ceslerp/CESL.ERP)
-- [AutoMobile Workshop Management System](https://github.com/JohnEdwinR/AutoMobile_Workshop_Management_System)
+Built and deployed a website for a family-run villa in Sri Lanka. Guests can browse rooms and photos and send booking enquiries via WhatsApp. The owner dashboard lets the villa team update room details and photos.
+
+**Tech stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Cloudflare Workers
+
+[Visit the live website](https://senasuma-villa.senasumavilla.workers.dev/)
+
+### CESL ERP System
+
+Contributed to ERP modules for HR, procurement, finance, and asset management at Central Engineering Services (Pvt) Ltd.
+
+**Repositories:** [Database](https://github.com/ceslerp/CESLERP.DB) · [Frontend](https://github.com/ceslerp/cesl.erp.projects.ui) · [Backend](https://github.com/ceslerp/CESL.ERP)
+
+### Automobile Workshop Management System
+
+[View the project repository](https://github.com/JohnEdwinR/AutoMobile_Workshop_Management_System)
 
 ---
 
