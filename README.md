@@ -23,6 +23,16 @@
 
 ## 🚩 Top Projects
 
+  ### Senasuma Villa
+  
+  Built and deployed a website for a family-run villa in Sri Lanka.
+  Guests can browse rooms and photos and send booking enquiries via WhatsApp.
+  An owner dashboard lets the villa team manage room details and photos.
+  
+  **Tech stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Cloudflare Workers
+  
+  [Visit the live website](https://senasuma-villa.senasumavilla.workers.dev/)
+
 - [CESLERP.DB](https://github.com/ceslerp/CESLERP.DB)
 - [cesl.erp.projects.ui](https://github.com/ceslerp/cesl.erp.projects.ui)
 - [CESL.ERP](https://github.com/ceslerp/CESL.ERP)
