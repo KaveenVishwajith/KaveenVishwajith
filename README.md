@@ -5,6 +5,12 @@
 <h1 align="center">Kaveen Vishwajith</h1>
 
 <p align="center">
+  <img src="./graduation.jpg"
+       alt="Kaveen Vishwajith at his BCI Campus graduation"
+       width="170" />
+</p>
+
+<p align="center">
   <strong>Computer Programmer · ERP Development · Networking &amp; Cloud</strong>
 </p>
 
