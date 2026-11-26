@@ -1,69 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:0F766E&amp;height=145&amp;section=header" alt="" />
-</p>
+# 💻 Hi there 👋, I'm Kaveen Vishwajith
 
-<h1 align="center">Kaveen Vishwajith</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=KaveenVishwajith&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveen%20Vishwajith-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kaveen-vishwajith-435436254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<p align="center">
-  <img src="./graduation.jpg"
-       alt="Kaveen Vishwajith at his BCI Campus graduation"
-       width="170" />
-</p>
+🚀 **Backend Developer | Full-Stack Enthusiast | Networking Lover**  
+🎓 Undergraduate at **BCI Campus** – BSc (Hons) in IT  
+💼 Currently working at **CESL** as a **Computer Programmer**  
+✅ Completed Internship at **CESL** – ERP System Development  
+🎯 Skilled in **.NET, React, Next.js, TypeScript, Node.js, MS SQL, MySQL, Networking**  
+  
 
-<p align="center">
-  <strong>Computer Programmer · ERP Development · Networking &amp; Cloud</strong>
-</p>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaveen-vishwajith-435436254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="#selected-projects"><img src="https://img.shields.io/badge/Selected_Projects-0F766E?style=flat-square" alt="Jump to selected projects" /></a>
-</p>
+## 🔥 About Me
 
-## About
+- 🌱 Exploring Fullstack  Development & Computer Networking 
+- 🛠️ Hands-on with ERP systems, HR Modules 
+- 📚 Always learning new technologies to sharpen my skills  
+- 🤝 Open to collaborations on impactful projects  
 
-I develop ERP applications at Central Engineering Services (Pvt) Ltd (CESL). My work spans business workflows, web interfaces, backend APIs, and SQL Server.
+---
 
-I hold a **BSc (Hons) in Information Technology from BCI Campus**. Alongside software development, I’m building practical skills in computer networking, systems administration, and Azure.
-
-## Selected Projects
+## 🚩 Top Projects
 
 ### Senasuma Villa
 
-Built and deployed a website for a family-run villa in Sri Lanka. Guests can browse rooms and photos and send booking enquiries through WhatsApp. The owner dashboard lets the villa team manage room details and photos.
+Built and deployed a website for a family-run villa in Sri Lanka. Guests can browse rooms and photos and send booking enquiries via WhatsApp. The owner dashboard lets the villa team update room details and photos.
 
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Cloudflare Workers`
+**Tech stack:** Next.js, TypeScript, Tailwind CSS, Supabase, Cloudflare Workers
 
-[View live website](https://senasuma-villa.senasumavilla.workers.dev/)
+[Visit the live website](https://senasuma-villa.senasumavilla.workers.dev/)
 
 ### CESL ERP System
 
-Contributed to HR, procurement, finance, and asset management modules. My work included employee attendance, purchase requisition approvals, and asset workflows.
+Contributed to ERP modules for HR, procurement, finance, and asset management at Central Engineering Services (Pvt) Ltd.
 
-`.NET` · `Azure Functions` · `Next.js` · `SQL Server`
-
-<details>
-<summary>View CESL repositories</summary>
-
-- [Frontend](https://github.com/ceslerp/cesl.erp.projects.ui)
-- [Backend](https://github.com/ceslerp/CESL.ERP)
-- [Database](https://github.com/ceslerp/CESLERP.DB)
-
-</details>
+**Repositories:** [Database](https://github.com/ceslerp/CESLERP.DB) · [Frontend](https://github.com/ceslerp/cesl.erp.projects.ui) · [Backend](https://github.com/ceslerp/CESL.ERP)
 
 ### Automobile Workshop Management System
 
-[View project repository](https://github.com/JohnEdwinR/AutoMobile_Workshop_Management_System)
+[View the project repository](https://github.com/JohnEdwinR/AutoMobile_Workshop_Management_System)
 
-## Technical Toolkit
+---
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | C#, .NET, Azure Functions, Node.js |
-| Databases | SQL Server, MySQL, PostgreSQL (Supabase) |
-| Deployment | Azure Functions, Cloudflare Workers |
+## 🧰 Tech Stack
 
-## Currently Learning
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-00A8E8?style=flat-square)
 
-- **Networking:** CCNA topics including subnetting, switching, and routing
-- **Systems and cloud:** Linux administration and Microsoft Azure fundamentals
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kaveen-vishwajith-435436254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+<!--
+If you’d like to add a profile photo or more social links, let me know!
+-->
